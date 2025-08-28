@@ -12,8 +12,8 @@ importers:
         specifier: ^17.2.1
         version: 17.2.1
       express:
-        specifier: ^5.1.0
-        version: 5.1.0
+        specifier: ^4.21.2
+        version: 4.21.2
       zod:
         specifier: ^3.25.76
         version: 3.25.76
